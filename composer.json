@@ -1,12 +1,22 @@
 {
     "name": "ghanem/reportable",
     "description": "Reportable Polymorphic Eloquent Models for Laravel 6, 7, 8, 9, 10, 11 & 12",
-    "keywords": ["report", "laravel"],
+    "keywords": [
+        "report",
+        "laravel"
+    ],
     "license": "MIT",
     "authors": [
         {
             "name": "Dzung Nguyen",
-            "email": "dungnh@gmail.com"
+            "email": "dungnh@gmail.com",
+            "role": "Original author"
+        },
+        {
+            "name": "GAIT",
+            "email": "info@gaitco.com",
+            "homepage": "https://gaitco.com",
+            "role": "Maintainer"
         }
     ],
     "minimum-stability": "dev",
