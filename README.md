@@ -97,3 +97,11 @@ $report->judge(); // Just a shortcut for $report->conclusion->judge
 ```php
 Report::allJudges();
 ```
+
+## Credits
+
+This package began life in 2015 as an MIT-licensed package by **DraperStudio**, originally authored by **Dzung Nguyen**. The upstream repository is no longer published. It has been maintained by [GAIT](https://gaitco.com) ever since. The original copyright notice is retained in [LICENSE](LICENSE).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
