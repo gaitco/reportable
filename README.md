@@ -1,3 +1,5 @@
+<p align="center"><img src="art/banner.png" alt="Laravel Reportable — Let users report any Eloquent model — reasons, abuse reports and moderation built in." width="100%"></p>
+
 [![Latest Version](https://img.shields.io/github/release/abdullahghanem/reportable.svg?style=flat-square)](https://github.com/abdullahghanem/reportable/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/ghanem/reportable.svg?style=flat-square)](https://packagist.org/packages/ghanem/reportable)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
